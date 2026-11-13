@@ -1,0 +1,3 @@
+<!DOCTYPE html><html lang="id" data-theme="dark"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>404</title>
+<link rel="stylesheet" href="{{ asset('css/portfolio.css') }}"></head><body><main class="wrap" style="min-height:100vh;display:grid;place-content:center;text-align:center">
+<h1><span class="grad">404</span></h1><p class="sub">Halaman yang kamu cari tidak ditemukan.</p><p><a class="btn p" href="/">Kembali ke beranda</a></p></main></body></html>
